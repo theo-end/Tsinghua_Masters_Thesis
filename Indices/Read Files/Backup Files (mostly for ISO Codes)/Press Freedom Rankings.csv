@@ -1,0 +1,181 @@
+﻿Rank,Country,ISO,Score,Categorical Rank
+122,Afghanistan,AFG,37.7,Worse
+84,Albania,ALB,30.25,Okay
+146,Algeria,DZA,45.52,Worse
+37,Andorra,AND,23.23,Better
+106,Angola,AGO,33.92,Okay
+64,Argentina,ARG,28.78,Okay
+61,Armenia,ARM,28.6,Okay
+26,Australia,AUS,20.21,Better
+18,Austria,AUT,15.78,Better
+168,Azerbaijan,AZE,58.48,Worst
+169,Bahrain,BHR,60.13,Worst
+151,Bangladesh,BGD,49.37,Worse
+153,Belarus,BLR,49.75,Worse
+12,Belgium,BEL,12.57,Best
+53,Belize,BLZ,27.5,Okay
+113,Benin,BEN,35.11,Worse
+67,Bhutan,BTN,28.9,Okay
+114,Bolivia,BOL,35.37,Worse
+58,Bosnia-Herzegovina,BIH,28.51,Okay
+39,Botswana,BWA,23.56,Better
+107,Brazil,BRA,34.05,Okay
+152,Brunei,BRN,49.65,Worse
+111,Bulgaria,BGR,35.06,Worse
+38,Burkina Faso,BFA,23.47,Better
+160,Burundi,BDI,55.33,Worst
+25,Cabo Verde,CPV,20.15,Better
+144,Cambodia,KHM,45.46,Worse
+134,Cameroon,CMR,43.28,Worse
+16,Canada,CAN,15.29,Better
+132,Central African Republic,CAF,42.87,Worse
+123,Chad,TCD,39.7,Worse
+51,Chile,CHL,27.31,Okay
+177,China,CHN,78.48,Worst
+130,Colombia,COL,42.66,Worse
+75,Comoros,COM,29.77,Okay
+118,Congo-Brazzaville,COG,36.56,Worse
+7,Costa Rica,CRI,10.53,Best
+68,Côte d’Ivoire,CIV,28.94,Okay
+59,Croatia,HRV,28.51,Okay
+171,Cuba,CUB,63.81,Worst
+27,Cyprus,CYP,20.45,Better
+40,Czech Republic,CZE,23.57,Better
+150,Democratic Republic of Congo,COD,49.09,Worse
+3,Denmark,DNK,8.13,Best
+176,Djibouti,DJI,76.73,Worst
+55,Dominican Republic,DOM,27.9,Okay
+98,Ecuador,ECU,32.62,Okay
+166,Egypt,EGY,56.82,Worst
+74,El Salvador,SLV,29.7,Okay
+165,Equatorial Guinea,GNQ,56.38,Worst
+178,Eritrea,ERI,83.5,Worst
+14,Estonia,EST,12.61,Best
+141,Eswatini,SWZ,45.15,Worse
+99,Ethiopia,ETH,32.82,Okay
+52,Fiji,FJI,27.41,Okay
+2,Finland,FIN,7.93,Best
+34,France,FRA,22.92,Better
+121,Gabon,GAB,37.2,Worse
+87,Gambia,GMB,30.62,Okay
+60,Georgia,GEO,28.59,Okay
+11,Germany,DEU,12.16,Best
+30,Ghana,GHA,22.26,Better
+65,Greece,GRC,28.8,Okay
+116,Guatemala,GTM,35.74,Worse
+110,Guinea,GIN,34.34,Okay
+94,Guinea Bissau,GNB,32.06,Okay
+49,Guyana,GUY,26.63,Okay
+83,Haïti,HTI,30.2,Okay
+148,Honduras,HND,48.2,Worse
+80,Hong Kong,HKG,30.01,Okay
+89,Hungary,HUN,30.84,Okay
+15,Iceland,ISL,15.12,Better
+142,India,IND,45.33,Worse
+119,Indonesia,IDN,36.82,Worse
+173,Iran,IRN,64.81,Worst
+162,Iraq,IRQ,55.37,Worst
+13,Ireland,IRL,12.6,Best
+88,Israel,ISR,30.84,Okay
+41,Italy,ITA,23.69,Better
+6,Jamaica,JAM,10.51,Best
+66,Japan,JPN,28.86,Okay
+128,Jordan,JOR,42.08,Worse
+157,Kazakhstan,KAZ,54.11,Worse
+103,Kenya,KEN,33.72,Okay
+70,Kosovo,KOS,29.33,Okay
+109,Kuwait,KWT,34.3,Okay
+82,Kyrgyzstan,KGZ,30.19,Okay
+172,Laos,LAO,64.28,Worst
+22,Latvia,LVA,18.56,Better
+102,Lebanon,LBN,33.19,Okay
+86,Lesotho,LSO,30.45,Okay
+95,Liberia,LBR,32.25,Okay
+164,Libya,LBY,55.77,Worst
+24,Liechtenstein,LIE,19.52,Better
+28,Lithuania,LTU,21.19,Better
+17,Luxembourg,LUX,15.46,Better
+54,Madagascar,MDG,27.68,Okay
+69,Malawi,MWI,29.32,Okay
+101,Malaysia,MYS,33.12,Okay
+79,Maldives,MDV,29.93,Okay
+108,Mali,MLI,34.12,Okay
+81,Malta,MLT,30.16,Okay
+97,Mauritania,MRT,32.54,Okay
+56,Mauritius,MUS,28,Okay
+143,Mexico,MEX,45.45,Worse
+91,Moldova,MDA,31.16,Okay
+73,Mongolia,MNG,29.61,Okay
+105,Montenegro,MNE,33.83,Okay
+133,Morocco / Western Sahara,MAR,42.88,Worse
+104,Mozambique,MOZ,33.79,Okay
+139,Myanmar,MMR,44.77,Worse
+23,Namibia,NAM,19.25,Better
+112,Nepal,NPL,35.1,Worse
+5,Netherlands,NLD,9.96,Best
+9,New Zealand,NZL,10.69,Best
+117,Nicaragua,NIC,35.81,Worse
+57,Niger,NIC,28.25,Okay
+115,Nigeria,NGA,35.63,Worse
+180,North Korea,PRK,85.82,Worst
+92,North Macedonia,MKD,31.28,Okay
+77,Northern Cyprus,CYP,29.79,Okay
+1,Norway,NOR,7.84,Best
+44,OECS,LCA,23.78,Better
+135,Oman,OMN,43.42,Worse
+145,Pakistan,PAK,45.52,Worse
+137,Palestine,PSE,44.09,Worse
+76,Panama,PAN,29.78,Okay
+46,Papua New Guinea,PNG,23.93,Better
+100,Paraguay,PRY,32.97,Okay
+90,Peru,PER,30.94,Okay
+136,Philippines,PHL,43.54,Worse
+62,Poland,POL,28.65,Okay
+10,Portugal,PRT,11.83,Best
+129,Qatar,QAT,42.51,Worse
+48,Romania,ROU,25.91,Okay
+149,Russia,RUS,48.92,Worse
+155,Rwanda,RWA,50.34,Worse
+21,Samoa,WSM,18.25,Better
+170,Saudi Arabia,SAU,62.14,Worst
+47,Senegal,SEN,23.99,Better
+93,Serbia,SRB,31.62,Okay
+63,Seychelles,SYC,28.66,Okay
+85,Sierra Leone,SLE,30.28,Okay
+158,Singapore,SGP,55.23,Worst
+33,Slovakia,SVK,22.67,Better
+32,Slovenia,SVN,22.64,Better
+163,Somalia,SOM,55.45,Worst
+31,South Africa,ZAF,22.41,Better
+42,South Korea,SGS,23.7,Better
+138,South Sudan,KOR,44.49,Worse
+29,Spain,ESP,22.16,Better
+127,Sri Lanka,LKA,41.94,Worse
+159,Sudan,SDN,55.33,Worst
+20,Suriname,SUR,17.5,Better
+4,Sweden,SWE,9.25,Best
+8,Switzerland,CHE,10.62,Best
+174,Syria,SYR,72.57,Worst
+43,Taiwan,TWN,23.76,Better
+161,Tajikistan,TJK,55.34,Worst
+124,Tanzania,TZA,40.25,Worse
+140,Thailand,THA,44.94,Worse
+78,Timor-Leste,TLS,29.9,Okay
+71,Togo,TGO,29.33,Okay
+50,Tonga,TON,27.27,Okay
+36,Trinidad and Tobago,TTO,23.22,Better
+72,Tunisia,TUN,29.45,Okay
+154,Turkey,TUR,50.02,Worse
+179,Turkmenistan,TKM,85.44,Worst
+125,Uganda,UGA,40.95,Worse
+96,Ukraine,UKR,32.52,Okay
+131,United Arab Emirates,ARE,42.69,Worse
+35,United Kingdom,GBR,22.93,Better
+45,United States,USA,23.85,Better
+19,Uruguay,URY,15.79,Better
+156,Uzbekistan,UZB,53.07,Worse
+147,Venezuela,VEN,45.66,Worse
+175,Vietnam,VNM,74.71,Worst
+167,Yemen,YEM,58.25,Worst
+120,Zambia,ZMB,37,Worse
+126,Zimbabwe,ZWE,40.95,Worse
