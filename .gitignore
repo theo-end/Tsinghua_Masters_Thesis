@@ -52,7 +52,6 @@ Extrema_Testing_Cases_Smoothed.xlsx
 fitting_Testing.pdf
 peak_valleys_Testing.xlsx
 death_first_derv.xlsx
-
 Extrema_Testing.py
 Extrema_Selection.py
 keypoint_Testing.py
@@ -81,3 +80,4 @@ Data Equity.png
 /__pycache__
 /.spyproject
 /.ipynb_checkpoints
+/Research Materials
