@@ -902,4 +902,4 @@ index_to_index_Ratio(Country_Metrics, economic_Support_Index, stringency_Index, 
 index_to_index_Ratio(Country_Metrics, economic_Support_Index, government_Response_Index, "Economic Support to Government Response Ratio")
 
 #Write the Country_Metrics DataFrame to an excel file
-Country_Metrics.to_excel('C:/Users/theod/Tsinghua Masters Thesis/Indices/Output Files/Country_Metrics.xlsx')
+#Country_Metrics.to_excel('C:/Users/theod/Tsinghua Masters Thesis/Indices/Output Files/Country_Metrics.xlsx')

@@ -612,4 +612,4 @@ large_index_calc(Composite_Index, "Risk Tolerance", ["Risk Tolerance: Outbreak S
 large_index_calc(Composite_Index, "Composite Index", ["Outbreak Severity", "Response Severity", "Risk Tolerance"])
 
 #save the composite index file as an excel file
-Composite_Index.to_excel('C:/Users/theod/Tsinghua Masters Thesis/Indices/Output Files/Composite_Index.xlsx')
+#Composite_Index.to_excel('C:/Users/theod/Tsinghua Masters Thesis/Indices/Output Files/Composite_Index.xlsx')

@@ -53,7 +53,7 @@ deaths_smoothed_15_3 = smoothing(deaths_MA, 15, 3)
 
 
 #Make the basic data graphs and tables if it is turned on. This is done at this step becuase all of the data preprocessing has been completed.
-Basic_Data_Graphs = False
+Basic_Data_Graphs = True
 
 #Disable figure limit warning
 plt.rcParams.update({'figure.max_open_warning': 0})

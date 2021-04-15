@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para>% These citations are a part of my research&#13;</para>
+  <para>@article{dong_interactive_2020,&#13;</para>
+  <para>        title = {An interactive web-based dashboard to track {COVID}-19 in real time},&#13;</para>
+  <para>        volume = {20},&#13;</para>
+  <para>        issn = {14733099},&#13;</para>
+  <para>        url = {https://linkinghub.elsevier.com/retrieve/pii/S1473309920301201},&#13;</para>
+  <para>        doi = {10.1016/S1473-3099(20)30120-1},&#13;</para>
+  <para>        language = {en},&#13;</para>
+  <para>        number = {5},&#13;</para>
+  <para>        urldate = {2021-02-22},&#13;</para>
+  <para>        journal = {The Lancet Infectious Diseases},&#13;</para>
+  <para>        author = {Dong, Ensheng and Du, Hongru and Gardner, Lauren},&#13;</para>
+  <para>        month = may,&#13;</para>
+  <para>        year = {2020},&#13;</para>
+  <para>        pages = {533--534},&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@misc{noauthor_1918_2020,&#13;</para>
+  <para>        title = {1918 {Pandemic} ({H1N1} virus)},&#13;</para>
+  <para>        url = {https://www.cdc.gov/flu/pandemic-resources/1918-pandemic-h1n1.html},&#13;</para>
+  <para>        urldate = {2021-02-22},&#13;</para>
+  <para>        journal = {Center for Disease Control and Prevention},&#13;</para>
+  <para>        author = {{Center for Disease Control and Prevention}},&#13;</para>
+  <para>        month = jun,&#13;</para>
+  <para>        year = {2020},&#13;</para>
+  <para>        note = {publisher: U.S. Department of Health \&amp; Human Services},&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{board2019world,&#13;</para>
+  <para>  title={A world at risk},&#13;</para>
+  <para>  author={{Global Preparedness Monitoring Board}},&#13;</para>
+  <para>  journal={Geneva: World Health Organization and the World Bank},&#13;</para>
+  <para>  year={2019}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{jonas2013pandemic,&#13;</para>
+  <para>  title={Pandemic risk},&#13;</para>
+  <para>  author={Jonas, Olga B},&#13;</para>
+  <para>  year={2013},&#13;</para>
+  <para>  publisher={World Bank, Washington, DC}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@misc{noauthor_global_2021,&#13;</para>
+  <para>        title = {Global {Economy} to {Expand} by 4\% in 2021; {Vaccine} {Deployment} and {Investment} {Key} to {Sustaining} the {Recovery}},&#13;</para>
+  <para>        url = {https://www.worldbank.org/en/news/press-release/2021/01/05/global-economy-to-expand-by-4-percent-in-2021-vaccine-deployment-and-investment-key-to-sustaining-the-recovery},&#13;</para>
+  <para>        urldate = {2021-02-22},&#13;</para>
+  <para>        journal = {World Bank},&#13;</para>
+  <para>        author = {{World Bank}},&#13;</para>
+  <para>        month = jan,&#13;</para>
+  <para>        year = {2021},&#13;</para>
+  <para>        note = {publisher: The World Bank Group},&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@misc{cnn_wire_staff_official:_2011,&#13;</para>
+  <para>        title = {Official: {Quake}, tsunami could cost {Japan} \$300 billion},&#13;</para>
+  <para>        url = {http://www.cnn.com/2011/WORLD/asiapcf/03/31/japan.disaster.budget/index.html},&#13;</para>
+  <para>        urldate = {2021-02-22},&#13;</para>
+  <para>        journal = {Cable News Network},&#13;</para>
+  <para>        author = {{CNN Wire Staff}},&#13;</para>
+  <para>        month = mar,&#13;</para>
+  <para>        year = {2011},&#13;</para>
+  <para>        note = {publisher: Warner Media Company},&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@phdthesis{samet2016financial,&#13;</para>
+  <para>  title={The Financial Costs of the Chernobyl Nuclear Power Plant Disaster},&#13;</para>
+  <para>  author={Samet, Jonathan M},&#13;</para>
+  <para>  year={2016},&#13;</para>
+  <para>  school={Keck School of Medicine}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@misc{centers_for_disease_control_and_prevention_2020, title={Nonpharmaceutical Interventions (NPIs)}, url={https://www.cdc.gov/nonpharmaceutical-interventions/index.html}, journal={Centers for Disease Control and Prevention}, publisher={Centers for Disease Control and Prevention}, author = {{Center for Disease Control and Prevention}}, year={2020}, month={Apr}}&#13;</para>
+  <para>&#13;</para>
+  <para>﻿@Article{Schuchat2020,&#13;</para>
+  <para>author={Schuchat, Anne&#13;</para>
+  <para>and Team, CDC COVID-19 Response},&#13;</para>
+  <para>title={Public Health Response to the Initiation and Spread of Pandemic COVID-19 in the United States, February 24-April 21, 2020},&#13;</para>
+  <para>journal={MMWR. Morbidity and mortality weekly report},&#13;</para>
+  <para>year={2020},&#13;</para>
+  <para>month={May},&#13;</para>
+  <para>day={08},&#13;</para>
+  <para>publisher={Centers for Disease Control and Prevention},&#13;</para>
+  <para>volume={69},&#13;</para>
+  <para>number={18},&#13;</para>
+  <para>pages={551-556},&#13;</para>
+  <para>note={32379733[pmid]},&#13;</para>
+  <para>note={PMC7737947[pmcid]},&#13;</para>
+  <para>issn={1545-861X},&#13;</para>
+  <para>url={https://pubmed.ncbi.nlm.nih.gov/32379733},&#13;</para>
+  <para>language={eng}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@misc{renton_reynolds_2020, title={Photo shows "corona" crossed out and replaced with "Chinese" in Trumps briefing notes}, url={https://edition.cnn.com/world/live-news/coronavirus-outbreak-03-19-20-intl-hnk/h_21c623966aa148dbeed242de4e94943e}, journal={CNN}, publisher={Cable News Network}, author={Renton, Adam and Reynolds, Emma}, year={2020}, month={Mar}}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{bieber2020global,&#13;</para>
+  <para>  title={Global nationalism in times of the COVID-19 pandemic},&#13;</para>
+  <para>  author={Bieber, Florian},&#13;</para>
+  <para>  journal={Nationalities Papers},&#13;</para>
+  <para>  pages={1--13},&#13;</para>
+  <para>  year={2020},&#13;</para>
+  <para>  publisher={Cambridge University Press}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@misc{jansen_2020, title={Wie Rechte das Coronavirus zur Hetze gegen Flüchtlinge benutzen}, url={https://www.tagesspiegel.de/politik/video-mit-pistolenschuss-wie-rechte-das-coronavirus-zur-hetze-gegen-fluechtlinge-benutzen/25625008.html}, journal={Der Tagesspiegel}, publisher={Der Tagesspiegel}, author={Jansen, Frank}, year={2020}, month={Mar}}&#13;</para>
+  <para>&#13;</para>
+  <para>@misc{vanguard_2020, title={COVID-19 discrimination: FG draws red line with China}, url={https://www.vanguardngr.com/2020/04/covid-19-discrimination-fg-draws-red-line-with-china/}, journal={Vanguard News}, author={Vanguard}, year={2020}, month={Apr}}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{javorcik2020global,&#13;</para>
+  <para>  title={Global supply chains will not be the same in the post-COVID-19 world},&#13;</para>
+  <para>  author={Javorcik, Beata},&#13;</para>
+  <para>  journal={COVID-19 and trade policy: Why turning inward won’t work},&#13;</para>
+  <para>  volume={111},&#13;</para>
+  <para>  year={2020},&#13;</para>
+  <para>  publisher={London, UK: CEPR}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{miroudot2020reshaping,&#13;</para>
+  <para>  title={Reshaping the policy debate on the implications of COVID-19 for global supply chains},&#13;</para>
+  <para>  author={Miroudot, S{\'e}bastien},&#13;</para>
+  <para>  journal={Journal of International Business Policy},&#13;</para>
+  <para>  volume={3},&#13;</para>
+  <para>  number={4},&#13;</para>
+  <para>  pages={430--442},&#13;</para>
+  <para>  year={2020},&#13;</para>
+  <para>  publisher={Springer}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{PERRA2021,&#13;</para>
+  <para>title = {Non-pharmaceutical interventions during the COVID-19 pandemic: A review},&#13;</para>
+  <para>journal = {Physics Reports},&#13;</para>
+  <para>year = {2021},&#13;</para>
+  <para>issn = {0370-1573},&#13;</para>
+  <para>doi = {https://doi.org/10.1016/j.physrep.2021.02.001},&#13;</para>
+  <para>url = {https://www.sciencedirect.com/science/article/pii/S0370157321000624},&#13;</para>
+  <para>author = {Nicola Perra},&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{haug2020ranking,&#13;</para>
+  <para>  title={Ranking the effectiveness of worldwide COVID-19 government interventions},&#13;</para>
+  <para>  author={Haug, Nils and Geyrhofer, Lukas and Londei, Alessandro and Dervic, Elma and Desvars-Larrive, Am{\'e}lie and Loreto, Vittorio and Pinior, Beate and Thurner, Stefan and Klimek, Peter},&#13;</para>
+  <para>  journal={Nature human behaviour},&#13;</para>
+  <para>  volume={4},&#13;</para>
+  <para>  number={12},&#13;</para>
+  <para>  pages={1303--1312},&#13;</para>
+  <para>  year={2020},&#13;</para>
+  <para>  publisher={Nature Publishing Group}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article {Braunereabd9338,&#13;</para>
+  <para>        author = {Brauner, Jan M. and Mindermann, S{\"o}ren and Sharma, Mrinank and Johnston, David and Salvatier, John and Gaven{\v c}iak, Tom{\'a}{\v s} and Stephenson, Anna B. and Leech, Gavin and Altman, George and Mikulik, Vladimir and Norman, Alexander John and Monrad, Joshua Teperowski and Besiroglu, Tamay and Ge, Hong and Hartwick, Meghan A. and Teh, Yee Whye and Chindelevitch, Leonid and Gal, Yarin and Kulveit, Jan},&#13;</para>
+  <para>        title = {Inferring the effectiveness of government interventions against COVID-19},&#13;</para>
+  <para>        volume = {371},&#13;</para>
+  <para>        number = {6531},&#13;</para>
+  <para>        elocation-id = {eabd9338},&#13;</para>
+  <para>        year = {2021},&#13;</para>
+  <para>        doi = {10.1126/science.abd9338},&#13;</para>
+  <para>        publisher = {American Association for the Advancement of Science},&#13;</para>
+  <para>        issn = {0036-8075},&#13;</para>
+  <para>        URL = {https://science.sciencemag.org/content/371/6531/eabd9338},&#13;</para>
+  <para>        eprint = {https://science.sciencemag.org/content/371/6531/eabd9338.full.pdf},&#13;</para>
+  <para>        journal = {Science}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{IMTYAZ2020504,&#13;</para>
+  <para>title = {Analysing governmental response to the COVID-19 pandemic},&#13;</para>
+  <para>journal = {Journal of Oral Biology and Craniofacial Research},&#13;</para>
+  <para>volume = {10},&#13;</para>
+  <para>number = {4},&#13;</para>
+  <para>pages = {504-513},&#13;</para>
+  <para>year = {2020},&#13;</para>
+  <para>issn = {2212-4268},&#13;</para>
+  <para>doi = {https://doi.org/10.1016/j.jobcr.2020.08.005},&#13;</para>
+  <para>url = {https://www.sciencedirect.com/science/article/pii/S2212426820301214},&#13;</para>
+  <para>author = {Ayman Imtyaz and  {Abid Haleem} and Mohd Javaid},&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article {Banholzer2020.04.16.20062141,&#13;</para>
+  <para>        author = {Banholzer, Nicolas and van Weenen, Eva and Kratzwald, Bernhard and Seeliger, Arne and Tschernutter, Daniel and Bottrighi, Pierluigi and Cenedese, Alberto and Salles, Joan Puig and Vach, Werner and Feuerriegel, Stefan},&#13;</para>
+  <para>        title = {Impact of non-pharmaceutical interventions on documented cases of COVID-19},&#13;</para>
+  <para>        elocation-id = {2020.04.16.20062141},&#13;</para>
+  <para>        year = {2020},&#13;</para>
+  <para>        doi = {10.1101/2020.04.16.20062141},&#13;</para>
+  <para>        publisher = {Cold Spring Harbor Laboratory Press},&#13;</para>
+  <para>        journal = {medRxiv}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{chae2020effectiveness,&#13;</para>
+  <para>  title={Effectiveness of Penalties for Lockdown Violations During the COVID-19 Pandemic in Germany},&#13;</para>
+  <para>  author={Chae, Seung Hoon and Park, Hyung Jun},&#13;</para>
+  <para>  journal={American Journal of Public Health},&#13;</para>
+  <para>  volume={110},&#13;</para>
+  <para>  number={12},&#13;</para>
+  <para>  pages={1844--1849},&#13;</para>
+  <para>  year={2020},&#13;</para>
+  <para>  publisher={American Public Health Association}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@ARTICLE{10.3389/fpubh.2020.00344,&#13;</para>
+  <para>AUTHOR={Dascalu, Stefan},   &#13;</para>
+  <para>TITLE={The Successes and Failures of the Initial COVID-19 Pandemic Response in Romania},      &#13;</para>
+  <para>JOURNAL={Frontiers in Public Health},      &#13;</para>
+  <para>VOLUME={8},      &#13;</para>
+  <para>PAGES={344},     &#13;</para>
+  <para>YEAR={2020},     &#13;</para>
+  <para>URL={https://www.frontiersin.org/article/10.3389/fpubh.2020.00344},       &#13;</para>
+  <para>DOI={10.3389/fpubh.2020.00344},      &#13;</para>
+  <para>ISSN={2296-2565},   &#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{doi:10.1080/10841806.2020.1758991,&#13;</para>
+  <para>author = {David P. Carter and Peter J. May},&#13;</para>
+  <para>title = {Making sense of the U.S. COVID-19 pandemic response: A policy regime perspective},&#13;</para>
+  <para>journal = {Administrative Theory \&amp; Praxis},&#13;</para>
+  <para>volume = {42},&#13;</para>
+  <para>number = {2},&#13;</para>
+  <para>pages = {265-277},&#13;</para>
+  <para>year  = {2020},&#13;</para>
+  <para>publisher = {Routledge},&#13;</para>
+  <para>doi = {10.1080/10841806.2020.1758991},&#13;</para>
+  <para>URL = { &#13;</para>
+  <para>        https://doi.org/10.1080/10841806.2020.1758991&#13;</para>
+  <para>}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@techreport{amuedo2020cure,&#13;</para>
+  <para>  title={Is the Cure Worse than the Disease? County-Level Evidence from the COVID-19 Pandemic in the United States},&#13;</para>
+  <para>  author={Amuedo-Dorantes, Catalina and Kaushal, Neeraj and Muchow, Ashley N},&#13;</para>
+  <para>  year={2020},&#13;</para>
+  <para>  institution={National Bureau of Economic Research}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{HSIEHCHEN2020111,&#13;</para>
+  <para>title = {Political partisanship and mobility restriction during the COVID-19 pandemic},&#13;</para>
+  <para>journal = {Public Health},&#13;</para>
+  <para>volume = {187},&#13;</para>
+  <para>pages = {111-114},&#13;</para>
+  <para>year = {2020},&#13;</para>
+  <para>issn = {0033-3506},&#13;</para>
+  <para>doi = {https://doi.org/10.1016/j.puhe.2020.08.009},&#13;</para>
+  <para>url = {https://www.sciencedirect.com/science/article/pii/S0033350620303772},&#13;</para>
+  <para>author = {D. Hsiehchen and M. Espinoza and P. Slovic},&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article {Ugarov2020.03.26.20044552,&#13;</para>
+  <para>        author = {Ugarov, Alexander},&#13;</para>
+  <para>        title = {Inclusive Costs of NPI Measures for COVID-19 Pandemic: Three Approaches},&#13;</para>
+  <para>        elocation-id = {2020.03.26.20044552},&#13;</para>
+  <para>        year = {2020},&#13;</para>
+  <para>        doi = {10.1101/2020.03.26.20044552},&#13;</para>
+  <para>        publisher = {Cold Spring Harbor Laboratory Press},&#13;</para>
+  <para>        URL = {https://www.medrxiv.org/content/early/2020/03/30/2020.03.26.20044552},&#13;</para>
+  <para>        eprint = {https://www.medrxiv.org/content/early/2020/03/30/2020.03.26.20044552.full.pdf},&#13;</para>
+  <para>        journal = {medRxiv}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{JANSSEN2020102180,&#13;</para>
+  <para>title = {Agile and adaptive governance in crisis response: Lessons from the COVID-19 pandemic},&#13;</para>
+  <para>journal = {International Journal of Information Management},&#13;</para>
+  <para>volume = {55},&#13;</para>
+  <para>pages = {102180},&#13;</para>
+  <para>year = {2020},&#13;</para>
+  <para>note = {Impact of COVID-19 Pandemic on Information Management Research and Practice: Editorial Perspectives},&#13;</para>
+  <para>issn = {0268-4012},&#13;</para>
+  <para>doi = {https://doi.org/10.1016/j.ijinfomgt.2020.102180},&#13;</para>
+  <para>url = {https://www.sciencedirect.com/science/article/pii/S0268401220309944},&#13;</para>
+  <para>author = {Marijn Janssen and Haiko {van der Voort}},&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@techreport{fetzer2020global,&#13;</para>
+  <para>  title={Global Behaviors and Perceptions at the Onset of the COVID-19 Pandemic},&#13;</para>
+  <para>  author={Fetzer, Thiemo R and Witte, Marc and Hensel, Lukas and Jachimowicz, Jon and Haushofer, Johannes and Ivchenko, Andriy and Caria, Stefano and Reutskaja, Elena and Roth, Christopher P and Fiorin, Stefano and others},&#13;</para>
+  <para>  year={2020},&#13;</para>
+  <para>  institution={National Bureau of Economic Research}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@misc{GHS,&#13;</para>
+  <para>        title = {The Global Health Security Index},&#13;</para>
+  <para>        url = {https://www.ghsindex.org/},&#13;</para>
+  <para>        abstract = {The GHS Index is the first comprehensive assessment of global health security capabilities in 195 countries.},&#13;</para>
+  <para>        language = {en-US},&#13;</para>
+  <para>        urldate = {2020-10-06},&#13;</para>
+  <para>        journal = {GHS Index},&#13;</para>
+  <para>        year = {2019}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{wong2020global,&#13;</para>
+  <para>  title={Is the Global Health Security (GHS) Index a Significant Factor Associated with COVID-19 Control? A Country Level Analysis},&#13;</para>
+  <para>  author={Wong, Martin and Huang, Junjie and Wong, Sunny H and Kwok, Kin-on and Teoh, Jeremy Yuen-Chun},&#13;</para>
+  <para>  journal={A Country Level Analysis (4/17/2020)},&#13;</para>
+  <para>  year={2020}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{haider_yavlinsky_chang_hasan_benfield_osman_uddin_dar_ntoumi_zumla_et_al._2020, &#13;</para>
+  <para>title={The Global Health Security index and Joint External Evaluation score for health preparedness are not correlated with countries' COVID-19 detection response time and mortality outcome}, &#13;</para>
+  <para>volume={148}, &#13;</para>
+  <para>DOI={10.1017/S0950268820002046}, &#13;</para>
+  <para>journal={Epidemiology and Infection}, &#13;</para>
+  <para>publisher={Cambridge University Press}, &#13;</para>
+  <para>author={Haider, Najmul and Yavlinsky, Alexei and Chang, Yu-Mei and Hasan, Mohammad Nayeem and Benfield, Camilla and Osman, Abdinasir Yusuf and Uddin, Md. Jamal and Dar, Osman and Ntoumi, Francine and Zumla, Alimuddin and et al.},&#13;</para>
+  <para>year={2020}, &#13;</para>
+  <para>pages={e210}}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{10.1371/journal.pone.0239398,&#13;</para>
+  <para>    author = {Abbey, Enoch J. AND Khalifa, Banda A. A. AND Oduwole, Modupe O. AND Ayeh, Samuel K. AND Nudotor, Richard D. AND Salia, Emmanuella L. AND Lasisi, Oluwatobi AND Bennett, Seth AND Yusuf, Hasiya E. AND Agwu, Allison L. AND Karakousis, Petros C.},&#13;</para>
+  <para>    journal = {PLOS ONE},&#13;</para>
+  <para>    publisher = {Public Library of Science},&#13;</para>
+  <para>    title = {The Global Health Security Index is not predictive of coronavirus pandemic responses among Organization for Economic Cooperation and Development countries},&#13;</para>
+  <para>    year = {2020},&#13;</para>
+  <para>    month = {10},&#13;</para>
+  <para>    volume = {15},&#13;</para>
+  <para>    url = {https://doi.org/10.1371/journal.pone.0239398},&#13;</para>
+  <para>    pages = {1-11},&#13;</para>
+  <para>    doi = {10.1371/journal.pone.0239398}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{aitken2020rethinking,&#13;</para>
+  <para>  title={Rethinking pandemic preparation: Global Health Security Index (GHSI) is predictive of COVID-19 burden, but in the opposite direction},&#13;</para>
+  <para>  author={Aitken, Tess and Chin, Ken Lee and Liew, Danny and Ofori-Asenso, Richard},&#13;</para>
+  <para>  journal={The Journal of infection},&#13;</para>
+  <para>  year={2020},&#13;</para>
+  <para>  publisher={Elsevier}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article {Ravie003648,&#13;</para>
+  <para>        author = {Ravi, Sanjana J and Warmbrod, Kelsey Lane and Mullen, Lucia and Meyer, Diane and Cameron, Elizabeth and Bell, Jessica and Bapat, Priya and Paterra, Michael and Machalaba, Catherine and Nath, Indira and Gostin, Lawrence O and James, Wilmot and George, Dylan and Nikkari, Simo and Gozzer, Ernesto and Tomori, Oyewale and Makumbi, Issa and Nuzzo, Jennifer B},&#13;</para>
+  <para>        title = {The value proposition of the Global Health Security Index},&#13;</para>
+  <para>        volume = {5},&#13;</para>
+  <para>        number = {10},&#13;</para>
+  <para>        elocation-id = {e003648},&#13;</para>
+  <para>        year = {2020},&#13;</para>
+  <para>        doi = {10.1136/bmjgh-2020-003648},&#13;</para>
+  <para>        publisher = {BMJ Specialist Journals},&#13;</para>
+  <para>        eprint = {https://gh.bmj.com/content/5/10/e003648.full.pdf},&#13;</para>
+  <para>        journal = {BMJ Global Health}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article {Razavie002477,&#13;</para>
+  <para>        author = {Razavi, Ahmed and Erondu, Ngozi A and Okereke, Ebere},&#13;</para>
+  <para>        title = {The Global Health Security Index: what value does it add?},&#13;</para>
+  <para>        volume = {5},&#13;</para>
+  <para>        number = {4},&#13;</para>
+  <para>        elocation-id = {e002477},&#13;</para>
+  <para>        year = {2020},&#13;</para>
+  <para>        doi = {10.1136/bmjgh-2020-002477},&#13;</para>
+  <para>        publisher = {BMJ Specialist Journals},&#13;</para>
+  <para>        URL = {https://gh.bmj.com/content/5/4/e002477},&#13;</para>
+  <para>        eprint = {https://gh.bmj.com/content/5/4/e002477.full.pdf},&#13;</para>
+  <para>        journal = {BMJ Global Health}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@book{halesamuel,&#13;</para>
+  <para> author = "Hale, Thomas and Noam Angrist and Emily Cameron-Blake and Laura Hallas and Beatriz Kira and Saptarshi Majumdar and Anna Petherick and Toby Phillips and Helen Tatlow and Samuel Webster",&#13;</para>
+  <para> title = "(2020)",&#13;</para>
+  <para> publisher = "Oxford {COVID}-19 Government Response Tracker, Blavatnik School of Government",&#13;</para>
+  <para> year = {}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{dergiades2020effectiveness,&#13;</para>
+  <para>  title={Effectiveness of government policies in response to the COVID-19 outbreak},&#13;</para>
+  <para>  author={Dergiades, Theologos and Milas, Costas and Panagiotidis, Theodore},&#13;</para>
+  <para>  journal={Available at SSRN 3602004},&#13;</para>
+  <para>  year={2020}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{zhu2020shorter,&#13;</para>
+  <para>  title={Shorter Time to a High Response Level Is Associated with Sooner Arrival of Peak Daily Incidence: An Analysis of Governments’ Stringency Index from 151 Countries},&#13;</para>
+  <para>  author={Zhu, Dongshan and Mishra, Shiva Raj and Ma, Yan and Han, Xikun},&#13;</para>
+  <para>  journal={Available at SSRN 3743993},&#13;</para>
+  <para>  year={2020}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{harder2020covid,&#13;</para>
+  <para>  title={COVID-19 Response Strategies: Differences Between Strategies of Male and Female Heads of Governments?},&#13;</para>
+  <para>  author={Harder, Mette Marie and Harder, Christoffer},&#13;</para>
+  <para>  journal={Available at SSRN 3679608},&#13;</para>
+  <para>  year={2020}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{hasell2020cross,&#13;</para>
+  <para>  title={A cross-country database of COVID-19 testing},&#13;</para>
+  <para>  author={Hasell, Joe and Mathieu, Edouard and Beltekian, Diana and Macdonald, Bobbie and Giattino, Charlie and Ortiz-Ospina, Esteban and Roser, Max and Ritchie, Hannah},&#13;</para>
+  <para>  journal={Scientific data},&#13;</para>
+  <para>  volume={7},&#13;</para>
+  <para>  number={1},&#13;</para>
+  <para>  pages={1--7},&#13;</para>
+  <para>  year={2020},&#13;</para>
+  <para>  publisher={Nature Publishing Group}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{tandon2000measuring,&#13;</para>
+  <para>  title={Measuring overall health system performance for 191 countries},&#13;</para>
+  <para>  author={Tandon, Ajay and Murray, Christopher JL and Lauer, Jeremy A and Evans, David B},&#13;</para>
+  <para>  journal={Geneva: World Health Organization},&#13;</para>
+  <para>  year={2000}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@misc{international2020world,&#13;</para>
+  <para>  title={World Economic Outlook, April 2020: The Great Lockdown},&#13;</para>
+  <para>  author={{International Monetary Fund}},&#13;</para>
+  <para>  year={2020},&#13;</para>
+  <para>  publisher={World Economic Outlook Reports}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{desa2019world,&#13;</para>
+  <para>  title={World population prospects 2019: Highlights},&#13;</para>
+  <para>  author={Desa, UN},&#13;</para>
+  <para>  journal={New York (US): United Nations Department for Economic and Social Affairs},&#13;</para>
+  <para>  year={2019}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@misc{noauthor_iso_nodate,&#13;</para>
+  <para>        title = {ISO - ISO 3166 — Country Codes},&#13;</para>
+  <para>        url = {https://www.iso.org/iso-3166-country-codes.html},&#13;</para>
+  <para>        author = {{International Organization for Standardization}},&#13;</para>
+  <para>        language = {en},&#13;</para>
+  <para>        urldate = {2021-02-22},&#13;</para>
+  <para>        journal = {ISO},&#13;</para>
+  <para>        year = {2020}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{doi:10.1021/ac60214a047,&#13;</para>
+  <para>author = {Savitzky, Abraham. and Golay, M. J. E.},&#13;</para>
+  <para>title = {Smoothing and Differentiation of Data by Simplified Least Squares Procedures.},&#13;</para>
+  <para>journal = {Analytical Chemistry},&#13;</para>
+  <para>volume = {36},&#13;</para>
+  <para>number = {8},&#13;</para>
+  <para>pages = {1627-1639},&#13;</para>
+  <para>year = {1964},&#13;</para>
+  <para>doi = {10.1021/ac60214a047},&#13;</para>
+  <para>URL = {https://doi.org/10.1021/ac60214a047},&#13;</para>
+  <para>eprint = {https://doi.org/10.1021/ac60214a047}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{fritsch1980monotone,&#13;</para>
+  <para>  title={Monotone piecewise cubic interpolation},&#13;</para>
+  <para>  author={Fritsch, Frederick N and Carlson, Ralph E},&#13;</para>
+  <para>  journal={SIAM Journal on Numerical Analysis},&#13;</para>
+  <para>  volume={17},&#13;</para>
+  <para>  number={2},&#13;</para>
+  <para>  pages={238--246},&#13;</para>
+  <para>  year={1980},&#13;</para>
+  <para>  publisher={SIAM}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@inproceedings{macqueen1967some,&#13;</para>
+  <para>  title={Some methods for classification and analysis of multivariate observations},&#13;</para>
+  <para>  author={MacQueen, James and others},&#13;</para>
+  <para>  booktitle={Proceedings of the fifth Berkeley symposium on mathematical statistics and probability},&#13;</para>
+  <para>  volume={1},&#13;</para>
+  <para>  number={14},&#13;</para>
+  <para>  pages={281--297},&#13;</para>
+  <para>  year={1967},&#13;</para>
+  <para>  organization={Oakland, CA, USA}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@misc{pearson1895notes,&#13;</para>
+  <para>  title={Notes on Regression and Inheritance in the Case of Two Parents Proceedings of the Royal Society of London, 58, 240-242},&#13;</para>
+  <para>  author={Pearson, K},&#13;</para>
+  <para>  year={1895},&#13;</para>
+  <para>  publisher={ed}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@book{myers2010research,&#13;</para>
+  <para>  title={Research design and statistical analysis},&#13;</para>
+  <para>  author={Myers, Jerome L and Well, Arnold and Lorch, Robert Frederick},&#13;</para>
+  <para>  year={2010},&#13;</para>
+  <para>  publisher={Routledge}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{kendall1938new,&#13;</para>
+  <para>  title={A new measure of rank correlation},&#13;</para>
+  <para>  author={Kendall, Maurice G},&#13;</para>
+  <para>  journal={Biometrika},&#13;</para>
+  <para>  volume={30},&#13;</para>
+  <para>  number={1/2},&#13;</para>
+  <para>  pages={81--93},&#13;</para>
+  <para>  year={1938},&#13;</para>
+  <para>  publisher={JSTOR}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{fisher1919xv,&#13;</para>
+  <para>  title={XV.—The correlation between relatives on the supposition of Mendelian inheritance.},&#13;</para>
+  <para>  author={Fisher, Ronald A},&#13;</para>
+  <para>  journal={Earth and Environmental Science Transactions of the Royal Society of Edinburgh},&#13;</para>
+  <para>  volume={52},&#13;</para>
+  <para>  number={2},&#13;</para>
+  <para>  pages={399--433},&#13;</para>
+  <para>  year={1919},&#13;</para>
+  <para>  publisher={Royal Society of Edinburgh Scotland Foundation}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{doi:10.1080/01621459.1952.10483441,&#13;</para>
+  <para>author = { William H.   Kruskal  and  W.   Allen   Wallis },&#13;</para>
+  <para>title = {Use of Ranks in One-Criterion Variance Analysis},&#13;</para>
+  <para>journal = {Journal of the American Statistical Association},&#13;</para>
+  <para>volume = {47},&#13;</para>
+  <para>number = {260},&#13;</para>
+  <para>pages = {583-621},&#13;</para>
+  <para>year  = {1952},&#13;</para>
+  <para>publisher = {Taylor &amp; Francis},&#13;</para>
+  <para>doi = {10.1080/01621459.1952.10483441},&#13;</para>
+  <para>URL = {https://www.tandfonline.com/doi/abs/10.1080/01621459.1952.10483441},&#13;</para>
+  <para>eprint = {https://www.tandfonline.com/doi/pdf/10.1080/01621459.1952.10483441}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{10.1093/biomet/52.3-4.591,&#13;</para>
+  <para>    author = {Shapiro, S. S. and Wilk, M. B.},&#13;</para>
+  <para>    title = "{An analysis of variance test for normality (complete samples)â€ }",&#13;</para>
+  <para>    journal = {Biometrika},&#13;</para>
+  <para>    volume = {52},&#13;</para>
+  <para>    number = {3-4},&#13;</para>
+  <para>    pages = {591-611},&#13;</para>
+  <para>    year = {1965},&#13;</para>
+  <para>    month = {12},&#13;</para>
+  <para>    issn = {0006-3444},&#13;</para>
+  <para>    doi = {10.1093/biomet/52.3-4.591},&#13;</para>
+  <para>    url = {https://doi.org/10.1093/biomet/52.3-4.591},&#13;</para>
+  <para>    eprint = {https://academic.oup.com/biomet/article-pdf/52/3-4/591/962907/52-3-4-591.pdf},&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{davies2020age,&#13;</para>
+  <para>  title={Age-dependent effects in the transmission and control of COVID-19 epidemics},&#13;</para>
+  <para>  author={Davies, Nicholas G and Klepac, Petra and Liu, Yang and Prem, Kiesha and Jit, Mark and Eggo, Rosalind M},&#13;</para>
+  <para>  journal={Nature medicine},&#13;</para>
+  <para>  volume={26},&#13;</para>
+  <para>  number={8},&#13;</para>
+  <para>  pages={1205--1211},&#13;</para>
+  <para>  year={2020},&#13;</para>
+  <para>  publisher={Nature Publishing Group}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@misc{bremmer_2021, title={The Best Global Responses to COVID-19 Pandemic, 1 Year Later}, url={https://time.com/5851633/best-global-responses-covid-19/#:~:text=The UAE is one of,to handle a global pandemic.}, journal={Time}, publisher={Time}, author={Bremmer, Ian}, year={2021}, month={Feb}}&#13;</para>
+  <para>&#13;</para>
+  <para>@misc{noauthor_covid-19_2021,&#13;</para>
+  <para>        title = {{COVID}-19 vaccination ‘wildly uneven and unfair’: {UN} {Secretary}-{General}},&#13;</para>
+  <para>        shorttitle = {{COVID}-19 vaccination ‘wildly uneven and unfair’},&#13;</para>
+  <para>        url = {https://news.un.org/en/story/2021/02/1084962},&#13;</para>
+  <para>        abstract = {International partners working to achieve equitable distribution of COVID-19 vaccines appealed on Wednesday for the UN Security Council to ensure people caught in conflict have access to these lifesaving treatments.},&#13;</para>
+  <para>        language = {en},&#13;</para>
+  <para>        author = {{UN News}},&#13;</para>
+  <para>        urldate = {2021-02-22},&#13;</para>
+  <para>        journal = {UN News},&#13;</para>
+  <para>        month = feb,&#13;</para>
+  <para>        year = {2021},&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article {Soltesz2020.06.15.20131953,&#13;</para>
+  <para>        author = {Soltesz, Kristian and Gustafsson, Fredrik and Timpka, Toomas and Jald{\'e}n, Joakim and Jidling, Carl and Heimerson, Albin and Sch{\"o}n, Thomas B. and Spreco, Armin and Ekberg, Joakim and Dahlstr{\"o}m, {\"O}rjan and Carlson, Fredrik Bagge and J{\"o}ud, Anna and Bernhardsson, Bo},&#13;</para>
+  <para>        title = {Sensitivity analysis of the effects of non-pharmaceutical interventions on COVID-19 in Europe},&#13;</para>
+  <para>        elocation-id = {2020.06.15.20131953},&#13;</para>
+  <para>        year = {2020},&#13;</para>
+  <para>        doi = {10.1101/2020.06.15.20131953},&#13;</para>
+  <para>        publisher = {Cold Spring Harbor Laboratory Press},&#13;</para>
+  <para>        URL = {https://www.medrxiv.org/content/early/2020/06/18/2020.06.15.20131953},&#13;</para>
+  <para>        eprint = {https://www.medrxiv.org/content/early/2020/06/18/2020.06.15.20131953.full.pdf},&#13;</para>
+  <para>        journal = {medRxiv}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article {Kannoth2021.01.18.21249998,&#13;</para>
+  <para>        author = {Kannoth, Sneha and Kandula, Sasikiran and Shaman, Jeffrey},&#13;</para>
+  <para>        title = {The Association between Early Country-level Testing Capacity and Later COVID-19 Mortality Outcomes},&#13;</para>
+  <para>        elocation-id = {2021.01.18.21249998},&#13;</para>
+  <para>        year = {2021},&#13;</para>
+  <para>        doi = {10.1101/2021.01.18.21249998},&#13;</para>
+  <para>        publisher = {Cold Spring Harbor Laboratory Press},&#13;</para>
+  <para>        URL = {https://www.medrxiv.org/content/early/2021/01/20/2021.01.18.21249998},&#13;</para>
+  <para>        eprint = {https://www.medrxiv.org/content/early/2021/01/20/2021.01.18.21249998.full.pdf},&#13;</para>
+  <para>        journal = {medRxiv}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{DUHON2021144325,&#13;</para>
+  <para>title = {The impact of non-pharmaceutical interventions, demographic, social, and climatic factors on the initial growth rate of COVID-19: A cross-country study},&#13;</para>
+  <para>journal = {Science of The Total Environment},&#13;</para>
+  <para>volume = {760},&#13;</para>
+  <para>pages = {144325},&#13;</para>
+  <para>year = {2021},&#13;</para>
+  <para>issn = {0048-9697},&#13;</para>
+  <para>doi = {https://doi.org/10.1016/j.scitotenv.2020.144325},&#13;</para>
+  <para>url = {https://www.sciencedirect.com/science/article/pii/S0048969720378566},&#13;</para>
+  <para>author = {Jacqueline Duhon and Nicola Bragazzi and Jude Dzevela Kong},&#13;</para>
+  <para>keywords = {COVID-19, Epidemic growth rate, Non-pharmaceutical interventions, Climatic variables, Social variables, Demographic variables},&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{chen2020scenario,&#13;</para>
+  <para>  title={Scenario analysis of non-pharmaceutical interventions on global COVID-19 transmissions},&#13;</para>
+  <para>  author={Chen, Xiaohui and Qiu, Ziyi},&#13;</para>
+  <para>  journal={arXiv preprint arXiv:2004.04529},&#13;</para>
+  <para>  year={2020}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{https://doi.org/10.1002/jmv.25805,&#13;</para>
+  <para>author = {Ma, Qing-Xia and Shan, Hu and Zhang, Hong-Liang and Li, Gui-Mei and Yang, Rui-Mei and Chen, Ji-Ming},&#13;</para>
+  <para>title = {Potential utilities of mask-wearing and instant hand hygiene for fighting SARS-CoV-2},&#13;</para>
+  <para>journal = {Journal of Medical Virology},&#13;</para>
+  <para>volume = {92},&#13;</para>
+  <para>number = {9},&#13;</para>
+  <para>pages = {1567-1571},&#13;</para>
+  <para>keywords = {coronavirus, COVID-19, hand hygiene, mask, pandemic, soap},&#13;</para>
+  <para>doi = {https://doi.org/10.1002/jmv.25805},&#13;</para>
+  <para>url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/jmv.25805},&#13;</para>
+  <para>eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/jmv.25805},&#13;</para>
+  <para>year = {2020}&#13;</para>
+  <para>}&#13;</para>
+  <para>@article{Odusanya,&#13;</para>
+  <para>author = {Odusanya, Olumuyiwa. and Odugbemi, Babatunde. and Odugbemi, Tinuola. and Ajisegiri, Whenayon.},&#13;</para>
+  <para>title =  {{COVID-19: A review of the effectiveness of non-pharmacological interventions}},&#13;</para>
+  <para>journal  ={Nigerian Postgraduate Medical Journal},&#13;</para>
+  <para>volume ={27},&#13;</para>
+  <para>number ={4},&#13;</para>
+  <para>pages  = {261-267},&#13;</para>
+  <para>doi  = {10.4103/npmj.npmj_208_20},&#13;</para>
+  <para>year  = {2020},&#13;</para>
+  <para>URL ={https://www.npmj.org/article.asp?issn=1117-1936;year=2020;volume=27;issue=4;spage=261;epage=267;aulast=Odusanya;t=6},&#13;</para>
+  <para>eprint ={https://www.npmj.org/article.asp?issn=1117-1936;year=2020;volume=27;issue=4;spage=261;epage=267;aulast=Odusanya;t=6}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{MIAO2021105128,&#13;</para>
+  <para>title = {Responding to COVID-19: Community volunteerism and coproduction in China},&#13;</para>
+  <para>journal = {World Development},&#13;</para>
+  <para>volume = {137},&#13;</para>
+  <para>pages = {105128},&#13;</para>
+  <para>year = {2021},&#13;</para>
+  <para>issn = {0305-750X},&#13;</para>
+  <para>doi = {https://doi.org/10.1016/j.worlddev.2020.105128},&#13;</para>
+  <para>url = {https://www.sciencedirect.com/science/article/pii/S0305750X20302552},&#13;</para>
+  <para>author = {Qing Miao and Susan Schwarz and Gary Schwarz},&#13;</para>
+  <para>keywords = {COVID-19, Coproduction, Community development, Volunteering, Asia, China},&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{10.1371/journal.pone.0237691,&#13;</para>
+  <para>    author = {Li, Tom AND Liu, Yan AND Li, Man AND Qian, Xiaoning AND Dai, Susie Y.},&#13;</para>
+  <para>    journal = {PLOS ONE},&#13;</para>
+  <para>    publisher = {Public Library of Science},&#13;</para>
+  <para>    title = {Mask or no mask for COVID-19: A public health and market study},&#13;</para>
+  <para>    year = {2020},&#13;</para>
+  <para>    month = {08},&#13;</para>
+  <para>    volume = {15},&#13;</para>
+  <para>    url = {https://doi.org/10.1371/journal.pone.0237691},&#13;</para>
+  <para>    pages = {1-17},&#13;</para>
+  <para>    number = {8},&#13;</para>
+  <para>    doi = {10.1371/journal.pone.0237691}&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@techreport{NBERw27891,&#13;</para>
+  <para> title = "Face Masks, Public Policies and Slowing the Spread of COVID-19: Evidence from Canada",&#13;</para>
+  <para> author = "Karaivanov, Alexander and Lu, Shih En and Shigeoka, Hitoshi and Chen, Cong and Pamplona, Stephanie",&#13;</para>
+  <para> institution = "National Bureau of Economic Research",&#13;</para>
+  <para> type = "Working Paper",&#13;</para>
+  <para> series = "Working Paper Series",&#13;</para>
+  <para> number = "27891",&#13;</para>
+  <para> year = "2020",&#13;</para>
+  <para> month = "October",&#13;</para>
+  <para> doi = {10.3386/w27891},&#13;</para>
+  <para> URL = "http://www.nber.org/papers/w27891",&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@article{WANG2020115099,&#13;</para>
+  <para>title = {Mask use during COVID-19: A risk adjusted strategy},&#13;</para>
+  <para>journal = {Environmental Pollution},&#13;</para>
+  <para>volume = {266},&#13;</para>
+  <para>pages = {115099},&#13;</para>
+  <para>year = {2020},&#13;</para>
+  <para>issn = {0269-7491},&#13;</para>
+  <para>doi = {https://doi.org/10.1016/j.envpol.2020.115099},&#13;</para>
+  <para>url = {https://www.sciencedirect.com/science/article/pii/S0269749120334862},&#13;</para>
+  <para>author = {Jiao Wang and Lijun Pan and Song Tang and John S. Ji and Xiaoming Shi},&#13;</para>
+  <para>keywords = {SARS-CoV-2, Coronavirus disease 2019, Effectiveness, Necessity, Infectivity},&#13;</para>
+  <para>}&#13;</para>
+  <para>&#13;</para>
+  <para>@misc{rsf,&#13;</para>
+  <para>  title={Press Freedom Index 2020},&#13;</para>
+  <para>  author={{Reporters Without Borders}},&#13;</para>
+  <para>  year={2020},&#13;</para>
+  <para>  publisher={Reporters Without Borders Paris}&#13;</para>
+  <para>}</para>
+</article>

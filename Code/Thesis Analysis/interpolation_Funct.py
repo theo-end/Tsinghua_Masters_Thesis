@@ -103,7 +103,7 @@ case_Interpolation = interpolation(cases_smoothed_15_3, cases_Extrema, 'Maxes Fi
 death_Interpolation = interpolation(deaths_smoothed_15_3, deaths_Extrema, 'Maxes Final', 'Mins Final')
 
 #Make graphs of a steps of the peak finding algorithm if graphing is turned on
-Interpolation_Graphing = False
+Interpolation_Graphing = True
 
 #turn off autoamtic plot generation in spyder
 plt.ioff()

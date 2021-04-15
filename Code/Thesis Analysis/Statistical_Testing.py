@@ -869,9 +869,9 @@ Risk_Tolerance = [["Num Cases Before Some Sectors Closed", "Value"],
 ["First Max Government Response to Preceding Deaths Ratio", "Value"]]
         
 
-Correlation_Testing(Confounding_Base_Columns_List, COVID_19_Metrics, "Confounding_Variable_COVID_19_Metrics", False, "Confounding_Variable_COVID_19_Metrics", True, Country_Metrics)
-Correlation_Testing(Pandemic_Prepardness_Base_Columns_List, COVID_19_Metrics, "Pandemic_Prepardness_COVID_19_Metrics", False, "Pandemic_Prepardness_COVID_19_Metrics", True, Country_Metrics)
-Correlation_Testing(Confounding_Base_Columns_List, Oxford_Indices_Test_Column_List, "Confounding_Variables_vs_Oxford_Indices_Graphs", False, "Confounding_Variables_vs_Oxford_Indices_Tables", True, Country_Metrics)
-Correlation_Testing(Pandemic_Prepardness_Base_Columns_List, Oxford_Indices_Test_Column_List, "Pandemic_Prepardness_Rankings_vs_Oxford_Indice_Metrics_Graphs", False, "Pandemic_Prepardness_Rankings_vs_Oxford_Indice_Metrics_Tables", True, Country_Metrics) 
-Correlation_Testing(Confounding_Base_Columns_List, Risk_Tolerance, "Confounding_Variables_vs_Risk_Tolerance", False, "Confounding_Variables_vs_Risk_Tolerance_Tables", True, Country_Metrics)
-Correlation_Testing(Pandemic_Prepardness_Base_Columns_List, Risk_Tolerance, "Pandemic_Prepardness_Rankings_vs_Risk_Tolerance", False, "Pandemic_Prepardness_Rankings_vs_Risk_Tolerance_Tables", True, Country_Metrics) 
+Correlation_Testing(Confounding_Base_Columns_List, COVID_19_Metrics, "Confounding_Variable_COVID_19_Metrics", False, "Confounding_Variable_COVID_19_Metrics", False, Country_Metrics)
+Correlation_Testing(Pandemic_Prepardness_Base_Columns_List, COVID_19_Metrics, "Pandemic_Prepardness_COVID_19_Metrics", False, "Pandemic_Prepardness_COVID_19_Metrics", False, Country_Metrics)
+Correlation_Testing(Confounding_Base_Columns_List, Oxford_Indices_Test_Column_List, "Confounding_Variables_vs_Oxford_Indices_Graphs", False, "Confounding_Variables_vs_Oxford_Indices_Tables", False, Country_Metrics)
+Correlation_Testing(Pandemic_Prepardness_Base_Columns_List, Oxford_Indices_Test_Column_List, "Pandemic_Prepardness_Rankings_vs_Oxford_Indice_Metrics_Graphs", False, "Pandemic_Prepardness_Rankings_vs_Oxford_Indice_Metrics_Tables", False, Country_Metrics) 
+Correlation_Testing(Confounding_Base_Columns_List, Risk_Tolerance, "Confounding_Variables_vs_Risk_Tolerance", False, "Confounding_Variables_vs_Risk_Tolerance_Tables", False, Country_Metrics)
+Correlation_Testing(Pandemic_Prepardness_Base_Columns_List, Risk_Tolerance, "Pandemic_Prepardness_Rankings_vs_Risk_Tolerance", False, "Pandemic_Prepardness_Rankings_vs_Risk_Tolerance_Tables", False, Country_Metrics) 

@@ -362,7 +362,7 @@ final_Pruning(cases_smoothed_15_3, cases_Extrema, 'Mins 2', 'Rel Maxes 2', 'Mins
 final_Pruning(deaths_smoothed_15_3, deaths_Extrema, 'Mins 2', 'Rel Maxes 2', 'Mins Final', 'Maxes Final', 1.2, 2)
 
 #Make graphs of a steps of the peak finding algorithm if graphing is turned on
-Peak_Finding_Graphing = False
+Peak_Finding_Graphing = True
 
 #turn off autoamtic plot generation in spyder
 plt.ioff()
